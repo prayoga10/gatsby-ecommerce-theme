@@ -32,7 +32,7 @@
         },
         {
           "text": "Journal",
-          "link": "/blog"
+          "link": "https://artnaturalwood.com/blog"
         },
         {
           "text": "Privacy Policy",
@@ -65,64 +65,64 @@
   "headerLinks": [
     {
       "menuLabel": "Shop",
-      "menuLink": "/shop",
+      "menuLink": "https://artnaturalwood.com/toko/",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Furniture",
           "submenu": [
             {
-              "menuLabel": "All clothing",
-              "menuLink": "/shop"
+              "menuLabel": "Living",
+              "menuLink": "https://artnaturalwood.com/product-category/living/"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
-              "menuLink": "/shop"
+              "menuLabel": "Dining",
+              "menuLink": "https://artnaturalwood.com/product-category/dining/"
             },
             {
-              "menuLabel": "jackets",
-              "menuLink": "/shop"
+              "menuLabel": "Bedding",
+              "menuLink": "https://artnaturalwood.com/product-category/bedding/"
             },
             {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
+              "menuLabel": "Office",
+              "menuLink": "https://artnaturalwood.com/product-category/home-office/"
             }
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Works",
           "submenu": [
             {
-              "menuLabel": "All clothing",
-              "menuLink": "/shop"
+              "menuLabel": "Decor",
+              "menuLink": "https://artnaturalwood.com/product-category/home-decor/"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
-              "menuLink": "/shop"
+              "menuLabel": "Cafe",
+              "menuLink": "https://artnaturalwood.com/product-category/interior-cafe/"
             },
             {
-              "menuLabel": "jackets",
-              "menuLink": "/shop"
+              "menuLabel": "Home",
+              "menuLink": "https://artnaturalwood.com/product-category/house-construction/"
             },
             {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
+              "menuLabel": "Kitchen",
+              "menuLink": "https://artnaturalwood.com/product-category/home-kitchen/"
             },
             {
-              "menuLabel": "pants",
-              "menuLink": "/shop"
+              "menuLabel": "Wood",
+              "menuLink": "https://artnaturalwood.com/product-category/wood-resin/"
             }
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "Meeting",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
-              "menuLink": "/shop"
+              "menuLabel": "Table",
+              "menuLink": "https://artnaturalwood.com/product-category/meja-meeting/"
             },
             {
-              "menuLabel": "bags",
-              "menuLink": "/shop"
+              "menuLabel": "Chair",
+              "menuLink": "https://artnaturalwood.com/product-category/kursi-makan/"
             }
           ]
         }
